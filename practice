@@ -1,0 +1,40 @@
+ <style>
+ h2 {
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ body {
+   background-color: darkturquoise;
+ }
+ </style>
+</head>
+<body>
+<h2>Baby Sloth</h2>
+<img src="https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-34.jpg" width="300" alt="Baby Sloth">
+<br>
+<br>
+<h2>Baby Hedgehog</h2>
+<img src="https://i.ytimg.com/vi/u7RUz5MiqGs/maxresdefault.jpg" width="300" alt="Baby hedgehog">
+<br>
+<br>
+<h2>Baby Rabbit</h2>
+<img src="http://i1.wp.com/www.viralblasts.com/wp-content/uploads/2014/05/02.jpg?resize=552%2C353" width="300" alt="Baby bunny">
+<br>
+<br>
+<h2>Baby Pig</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOrj_pb6QzPFFbPmVeqff9QE6LhmKP_qdJsM47uFshLTufE-4fg" width="300" alt="Baby pig">
+<br>
+<br>
+<h2>Baby Seal</h2>
+<img src="https://natgeo.imgix.net/shows/thumbnails/babyseal.jpg?auto=compress,format&w=1920&h=960&fit=crop" width="300" alt="Baby seal">
+<br>
+<br>
+  <h2>Baby Turtle</h2>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFaxIv1x-gT2E2Ll7g5BSTJToJaNSmiJzJBTNZw-EL9yy6oEWm3A" width="300" alt="Baby turtle">
+<br>
+<br>
+<h2>Baby Panda</h2>
+<img src="https://i2-prod.mirror.co.uk/incoming/article8948749.ece/ALTERNATES/s1200/Baby-pandas.jpg" width="300" alt="Baby panda">
+<br>
+<br>
+</body>
+</html>
